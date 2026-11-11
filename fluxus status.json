@@ -1,1 +1,33 @@
-
+{
+  "version": "5.0.3",
+  "downloads": [
+    {
+      "name": "Android 64-bit",
+      "url": "https://example.com/fluxusx/android-64"
+    },
+    {
+      "name": "Android 32-bit",
+      "url": "https://example.com/fluxusx/android-32"
+    },
+    {
+      "name": "Android VNG 64-bit",
+      "url": "https://example.com/fluxusx/android-vng-64"
+    },
+    {
+      "name": "Android VNG 32-bit",
+      "url": "https://example.com/fluxusx/android-vng-32"
+    },
+    {
+      "name": "iOS IPA",
+      "url": "https://example.com/fluxusx/ios"
+    },
+    {
+      "name": "Windows EXE",
+      "url": "https://example.com/fluxusx/windows"
+    },
+    {
+      "name": "Linux AppImage",
+      "url": "https://example.com/fluxusx/linux"
+    }
+  ]
+}
